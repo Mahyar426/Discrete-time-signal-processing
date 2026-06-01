@@ -1,4 +1,4 @@
-%% Mohadeseh Ghafoori 9632133 Mahyar Onsori 9632093
+%% Mahyar Onsori 9632093
 %% clearing
 clc
 clear all
