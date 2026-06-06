@@ -5,8 +5,6 @@
 ![MATLAB](https://img.shields.io/badge/MATLAB-R2020a-orange?style=flat-square&logo=mathworks)
 ![Domain](https://img.shields.io/badge/Domain-Signal%20Processing-blue?style=flat-square)
 ![Topics](https://img.shields.io/badge/Topics-Filtering%20%7C%20Sampling%20%7C%20Quantization-green?style=flat-square)
-![Co-author](https://img.shields.io/badge/Co--author-Mohadeseh%20Ghafoori-lightgrey?style=flat-square)
-
 </div>
 
 ---
